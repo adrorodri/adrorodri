@@ -1,7 +1,7 @@
 <img align="left" width="auto" height="50" src="https://1000marcas.net/wp-content/uploads/2020/01/Android-logo-600x338.png" alt="Android">
 
 # Adrian (Adro) Rodriguez
-I'm mobile developer that loves Android
+I'm a mobile developer that loves Android
 <img src="https://cdn.worldvectorlogo.com/logos/android.svg" width="auto" height="20" />
 Kotlin 
 <img src="https://www.seyfmark.com/wp-content/uploads/2019/08/kotlin-logo.png" width="auto" height="20" />
