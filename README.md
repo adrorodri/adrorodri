@@ -7,7 +7,7 @@ Kotlin
 <img src="https://www.seyfmark.com/wp-content/uploads/2019/08/kotlin-logo.png" width="auto" height="20" />
 and Angular 
 <img src="https://cdn.worldvectorlogo.com/logos/angular-icon.svg" width="auto" height="20" />
-.
+(and currently learning Flutter too :sunglasses:)!
 
 Also love anything that has to do with Raspberry, Arduinos and 3D Printing! And of course, love programming memes :satisfied: !!
 
